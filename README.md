@@ -53,7 +53,7 @@ desafio-modulo-2/
 │ └── IDroid.otf
 │── imagens/
 │ └── (arquivos de imagem utilizados no projeto)
-│── android.html
+│── index.html
 │── estilo.css
 │── android-site.txt
 
@@ -64,7 +64,7 @@ desafio-modulo-2/
 ## Como Executar
 
 1. Baixe ou clone este repositório.  
-2. Abra o arquivo `android.html` em qualquer navegador moderno.  
+2. Abra o arquivo `index.html` em qualquer navegador moderno.  
 
 Não é necessário servidor local ou ferramentas adicionais.
 
