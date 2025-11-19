@@ -1,0 +1,13 @@
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos do Windows
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Diretórios que não devem ir para o Git
+node_modules/
+dist/
